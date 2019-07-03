@@ -1,1 +1,1 @@
-# coc_scraper
+# Scrap list of businesses from Chamber of Commerce websites
